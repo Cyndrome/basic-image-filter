@@ -4,7 +4,7 @@ Image Filter application
 Allows the user to upload an image and applying a filter to it. Offers a variety of filters to choose from. 
 """ 
 
-DEFAULT_FILE = 'C:/Users/user/Learning Python/Assignments/Final_project/images/u.McStackly.jpg'
+DEFAULT_FILE = 'images/u.McStackly.jpg'
 
 from simpleimage import SimpleImage
 
