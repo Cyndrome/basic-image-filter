@@ -6,7 +6,7 @@ Also allows the user to apply a custom filter by multiplying each of the RGB val
 desired number.
 """ 
 
-DEFAULT_FILE = '' 
+DEFAULT_FILE = '/images/lil_josh.png' 
 
 from simpleimage import SimpleImage
 
