@@ -1,5 +1,5 @@
 # Basic Image Filter
-A very basic multifunctional program that can apply a few filters to an image. I created this for practice with image manipulation in Python. 
+A very basic multifunctional program that can apply a few built-in filters to an image, also allowing the user to apply a custom filter. I created this for practice with image manipulation in Python. 
 
 # Methodology
 I've used the SimpleImage library to code this one. This library was built by Nick Parlante using Pillow, a version of the PIL. 
